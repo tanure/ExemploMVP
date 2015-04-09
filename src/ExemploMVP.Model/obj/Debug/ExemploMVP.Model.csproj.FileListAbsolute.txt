@@ -1,0 +1,15 @@
+E:\Artigos\100loop\MVP\src\ExemploMVP\ExemploMVP.Model\bin\Debug\ExemploMVP.Model.dll
+E:\Artigos\100loop\MVP\src\ExemploMVP\ExemploMVP.Model\bin\Debug\ExemploMVP.Model.pdb
+E:\Artigos\100loop\MVP\src\ExemploMVP\ExemploMVP.Model\obj\Debug\ExemploMVP.Model.csprojResolveAssemblyReference.cache
+E:\Artigos\100loop\MVP\src\ExemploMVP\ExemploMVP.Model\obj\Debug\ExemploMVP.Model.dll
+E:\Artigos\100loop\MVP\src\ExemploMVP\ExemploMVP.Model\obj\Debug\ExemploMVP.Model.pdb
+E:\Albert\Projetos\MVP\MVP\src\ExemploMVP\ExemploMVP.Model\bin\Debug\ExemploMVP.Model.dll
+E:\Albert\Projetos\MVP\MVP\src\ExemploMVP\ExemploMVP.Model\bin\Debug\ExemploMVP.Model.pdb
+E:\Albert\Projetos\MVP\MVP\src\ExemploMVP\ExemploMVP.Model\obj\Debug\ExemploMVP.Model.csprojResolveAssemblyReference.cache
+E:\Albert\Projetos\MVP\MVP\src\ExemploMVP\ExemploMVP.Model\obj\Debug\ExemploMVP.Model.dll
+E:\Albert\Projetos\MVP\MVP\src\ExemploMVP\ExemploMVP.Model\obj\Debug\ExemploMVP.Model.pdb
+E:\Artigos\100loop\MVP\MVP\src\ExemploMVP\ExemploMVP.Model\bin\Debug\ExemploMVP.Model.dll
+E:\Artigos\100loop\MVP\MVP\src\ExemploMVP\ExemploMVP.Model\bin\Debug\ExemploMVP.Model.pdb
+E:\Artigos\100loop\MVP\MVP\src\ExemploMVP\ExemploMVP.Model\obj\Debug\ExemploMVP.Model.csprojResolveAssemblyReference.cache
+E:\Artigos\100loop\MVP\MVP\src\ExemploMVP\ExemploMVP.Model\obj\Debug\ExemploMVP.Model.dll
+E:\Artigos\100loop\MVP\MVP\src\ExemploMVP\ExemploMVP.Model\obj\Debug\ExemploMVP.Model.pdb

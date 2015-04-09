@@ -1,0 +1,6 @@
+E:\Artigos\100loop\MVP\src\ExemploMVP\ExemploMVP.Console\bin\Debug\ExemploMVP.Console.exe.config
+E:\Artigos\100loop\MVP\src\ExemploMVP\ExemploMVP.Console\bin\Debug\ExemploMVP.Console.exe
+E:\Artigos\100loop\MVP\src\ExemploMVP\ExemploMVP.Console\bin\Debug\ExemploMVP.Console.pdb
+E:\Artigos\100loop\MVP\src\ExemploMVP\ExemploMVP.Console\obj\Debug\ExemploMVP.Console.csprojResolveAssemblyReference.cache
+E:\Artigos\100loop\MVP\src\ExemploMVP\ExemploMVP.Console\obj\Debug\ExemploMVP.Console.exe
+E:\Artigos\100loop\MVP\src\ExemploMVP\ExemploMVP.Console\obj\Debug\ExemploMVP.Console.pdb
